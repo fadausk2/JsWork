@@ -11,6 +11,7 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
+    "braces": "^3.0.2",
     "clean-css": "^4.2.1",
     "diff": "^4.0.1",
     "growl": "^1.10.5",
